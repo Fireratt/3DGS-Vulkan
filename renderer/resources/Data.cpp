@@ -1,4 +1,5 @@
 #include "Data.hpp"
+#include <cstring>
 
 namespace X {
 

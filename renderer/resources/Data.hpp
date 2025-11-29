@@ -1,7 +1,6 @@
 #pragma once
 
 #include <memory>
-
 namespace X {
 
 class Data {
